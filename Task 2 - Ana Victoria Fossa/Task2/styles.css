@@ -1,0 +1,56 @@
+BODY { margin: 5em }
+P    { margin: 2em 4em }
+	
+         
+DIV { margin: 1em 2em 3em 4em } 
+h1 {
+    color: rgb(151, 42, 194);
+    font-family: fantasy;
+    font-weight: bold;
+  }
+  p {
+    color: green;
+  }
+  .special {
+    color: orange;
+    font-weight: bold;
+  }
+#primero {
+text-decoration: none;
+font-weight: bold;
+color: rgb(211, 217, 218);
+background-color: rgb(46, 48, 184);
+padding: 10px 20px;
+display: inline-block;
+border-radius: 10px;
+border-color: black;
+}
+#primero:hover {
+background-color: rgb(226, 134, 13);
+}
+#segundo {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(211, 217, 218);
+    background-color: rgb(15, 202, 87);
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: black;
+}
+#tercero {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(211, 217, 218);
+    background-color: rgb(15, 202, 87);
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: black;
+}
+
+#design21_image2.jpg {
+    text-align: justify;
+    object-fit: scale-down;
+    max-width: min-content;
+}
