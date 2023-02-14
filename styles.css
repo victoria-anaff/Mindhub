@@ -1,0 +1,81 @@
+body {
+  margin: 50 60 60 90;
+}
+
+h1 {
+    color: orange;
+    font-family: fantasy;
+    font-weight: bold;
+    border: 2px;
+    border-width: 2px;
+  }
+  p {
+    color: rgb(0, 0, 0);
+  }
+  .special {
+    color: orange;
+    font-weight: bold;
+  }
+
+#primero {
+text-decoration: none;
+font-weight: bold;
+color: rgb(211, 217, 218);
+background-color: rgb(46, 48, 184);
+padding: 10px 20px;
+display: inline-block;
+border-radius: 10px;
+border-color: black;
+}
+#primero:hover {
+background-color: rgb(226, 134, 13);
+}
+#segundo {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 202, 87);
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: black;
+}
+#segundo:hover {
+background-color: rgb(226, 134, 13);
+}
+
+#tercero {
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    background-color: rgb(15, 202, 87);
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    border-color: black;
+}
+#tercero:hover {
+  background-color: rgb(226, 134, 13);
+}
+#design21_image2.jpg {
+    text-align: justify;
+    object-fit: scale-down;
+    max-width: min-content;
+}
+
+#identificador    {
+  margin: 3px 10px 6px 8px;
+  }
+
+
+img{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+img{
+  border-radius: 50%;
+}
+
